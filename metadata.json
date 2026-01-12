@@ -1,0 +1,17 @@
+{
+  "name": "QualityToken",
+  "symbol": "QT",
+  "description": "QualityToken utility token. Fixed supply: 100. No burn. No inflation.",
+  "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/QualityToken.jpg",
+  "external_url": "https://QualityToken.io",
+  "attributes": [
+    {
+      "trait_type": "Supply",
+      "value": "100"
+    },
+    {
+      "trait_type": "Decimals",
+      "value": "0"
+    }
+  ]
+}
