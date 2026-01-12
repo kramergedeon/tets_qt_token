@@ -2,7 +2,7 @@
   "name": "QualityToken",
   "symbol": "QT",
   "description": "QualityToken utility token. Fixed supply: 100. No burn. No inflation.",
-  "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/QualityToken.jpg",
+  "image": "https://github.com/kramergedeon/tets_qt_token/blob/main/QualityToken.jpg",
   "external_url": "https://QualityToken.io",
   "attributes": [
     {
